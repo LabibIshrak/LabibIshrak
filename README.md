@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi I'm Labib. Second year Undergrad student, currently exploring AI/ML.
 
-<!--
-**LabibIshrak/LabibIshrak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building [`Vantaloc`](https://www.vantaloc.com)
 
-Here are some ideas to get you started:
+|![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LabibIshrak&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LabibIshrak&theme=dracula)|
+|-----|------|
+ 
+Above stats generated with: [`tipsy/profile-summary-for-github`](https://github.com/tipsy/profile-summary-for-github)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Recent Projects
+
+1. [songket](https://github.com/LabibIshrak/songket)
+2. [tewtorify](https://github.com/LabibIshrak/tewtorify)
