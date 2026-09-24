@@ -1,10 +1,9 @@
 Hi I'm Labib. Second year Undergrad student, currently exploring AI/ML.
 
 
-|![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LabibIshrak&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LabibIshrak&theme=dracula)|
-|-----|------|
+![Metrics](github-metrics.svg)
  
-Above stats generated with: [`tipsy/profile-summary-for-github`](https://github.com/tipsy/profile-summary-for-github)
+
 
 # Recent Projects
 

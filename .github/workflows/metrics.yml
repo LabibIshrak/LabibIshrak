@@ -1,0 +1,34 @@
+name: Metrics
+on:
+  # Schedule daily updates
+  schedule: [{cron: "0 0 * * *"}]
+  # Allow running manually from the Actions tab
+  workflow_dispatch:
+  # Run on every push to main/master
+  push: {branches: ["master", "main"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Your GitHub token (we will set this up as a secret)
+          token: ${{ secrets.METRICS_TOKEN }}
+          
+          # Basic options
+          user: LabibIshrak
+          template: classic
+          base: "" # Hides the default header to keep things minimal
+          
+          # ----------------------------------------------------
+          # LANGUAGES PLUGIN
+          # ----------------------------------------------------
+          plugin_languages: yes
+          # This is the magic setting! It analyzes your individual commits 
+          # across forks and organizations to find the exact languages you wrote.
+          plugin_languages_indepth: yes 
+          plugin_languages_details: percentage
+          plugin_languages_limit: 8
