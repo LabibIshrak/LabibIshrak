@@ -1,4 +1,4 @@
-Hi I'm Labib. Second year undergrad student, currently exploring AI/ML.
+Hi I'm Labib. Second year undergrad student, currently exploring AI/ML and attending a lot of hackathons.
 
 
 ![Metrics](github-metrics.svg?v=2)
