@@ -1,7 +1,7 @@
 Hi I'm Labib. Second year undergrad student, currently exploring AI/ML.
 
 
-![Metrics](github-metrics.svg)
+![Metrics](github-metrics.svg?v=2)
  
 
 
