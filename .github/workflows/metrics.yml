@@ -22,6 +22,8 @@ jobs:
           user: LabibIshrak
           template: classic
           base: "" # Hides the default header to keep things minimal
+          config_theme: dracula
+          config_animations: yes
           
           # ----------------------------------------------------
           # LANGUAGES PLUGIN
