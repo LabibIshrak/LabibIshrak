@@ -32,3 +32,32 @@ jobs:
           plugin_languages_indepth: yes 
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 8
+          plugin_languages_colors: >-
+            kotlin:#F18E33, java:#E76F00, tsx:#61DAFB,
+            css:#663399, shell:#89E051, rust:#DEA584,
+            html:#E34C26, typescript:#3178C6
+
+          # ----------------------------------------------------
+          # CUSTOM STYLING
+          # ----------------------------------------------------
+          extras_css: |
+            /* Dark card background */
+            svg {
+              background: #2d333b;
+              border-radius: 10px;
+            }
+            /* Vibrant pink/coral headings like reference */
+            h2, h3 {
+              color: #ff6e96 !important;
+            }
+            /* Light text for readability */
+            svg, .field, small, div {
+              color: #cdd9e5 !important;
+            }
+            /* Accent color for icons */
+            h2 svg, h3 svg {
+              fill: #ff6e96 !important;
+            }
+            .field svg:not(h2 svg):not(h3 svg) {
+              fill: #768390 !important;
+            }
