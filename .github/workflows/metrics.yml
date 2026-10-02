@@ -26,6 +26,9 @@ jobs:
           config_display: large
           config_padding: 6%, 10%
 
+          # Include personal (public+private), org, and collaborator repos
+          repositories_affiliations: owner, collaborator, organization_member
+
           # ----------------------------------------------------
           # LANGUAGES PLUGIN
           # ----------------------------------------------------
@@ -33,6 +36,7 @@ jobs:
           plugin_languages_indepth: yes 
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 8
+          plugin_languages_analysis_timeout: 30
           plugin_languages_colors: "0:#F18E33, 1:#E76F00, 2:#61DAFB, 3:#663399, 4:#89E051, 5:#DEA584, 6:#E34C26, 7:#3178C6"
 
           # ----------------------------------------------------
