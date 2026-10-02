@@ -7,5 +7,5 @@ Hi, I'm Labib. Second year CS undergrad student. Currently exploring AI/ML and d
 
 # Recent Projects
 
-1. [songket](https://github.com/LabibIshrak/songket) - P2P Decentralized Mesh Communication Application.
-2. [tewtorify](https://github.com/LabibIshrak/tewtorify) - Community Driven Tution Matching Application.
+1. [songket](https://github.com/LabibIshrak/songket) - July Hackathon Winner. P2P Decentralized Mesh Communication Application.
+2. [tewtorify](https://github.com/LabibIshrak/tewtorify) - A Community Driven Tution Matching Platform for Pabna.
