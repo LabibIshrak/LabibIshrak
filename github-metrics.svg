@@ -21,20 +21,20 @@ svg.bar rect[fill="#d1d5da"] { fill: #30363d !important; }</style>
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 7.49mb of code in 953 edited files across 44 commits</small>
+                <small>estimation from 7.51mb of code in 967 edited files across 45 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="598.0674935141562" height="8" fill="#f18e33"/>
-                    <rect mask="url(#languages-bar)" x="598.0674935141562" y="0" width="183.8465857743938" height="8" fill="#e76f00"/>
-                    <rect mask="url(#languages-bar)" x="781.91407928855" y="0" width="52.97413199006262" height="8" fill="#61dafb"/>
-                    <rect mask="url(#languages-bar)" x="834.8882112786126" y="0" width="28.621914061182732" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="863.5101253397953" y="0" width="23.707161915133952" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="887.2172872549293" y="0" width="13.98530576993977" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="901.2025930248691" y="0" width="9.909667805749004" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="911.1122608306181" y="0" width="8.887739169381975" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="596.3139659101219" height="8" fill="#f18e33"/>
+                    <rect mask="url(#languages-bar)" x="596.3139659101219" y="0" width="183.30754951751814" height="8" fill="#e76f00"/>
+                    <rect mask="url(#languages-bar)" x="779.6215154276399" y="0" width="52.81881239193747" height="8" fill="#61dafb"/>
+                    <rect mask="url(#languages-bar)" x="832.4403278195774" y="0" width="28.53799491003195" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="860.9783227296093" y="0" width="26.31598330302731" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="887.2943060326367" y="0" width="13.944301000437328" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="901.238607033074" y="0" width="9.899712555359834" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="911.1383195884339" y="0" width="8.861680411566205" height="8" fill="#3178c6"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -47,7 +47,7 @@ svg.bar rect[fill="#d1d5da"] { fill: #30363d !important; }</style>
                             </div>
                             <small>
                                 <div>2.87 MB</div>
-                                <div>65.01%</div>
+                                <div>64.82%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -58,8 +58,8 @@ svg.bar rect[fill="#d1d5da"] { fill: #30363d !important; }</style>
                                 TSX
                             </div>
                             <small>
-                                <div>113 kB</div>
-                                <div>2.58%</div>
+                                <div>126 kB</div>
+                                <div>2.86%</div>
                             </small>
                         </div>
                     </section>
@@ -73,7 +73,7 @@ svg.bar rect[fill="#d1d5da"] { fill: #30363d !important; }</style>
                             </div>
                             <small>
                                 <div>882 kB</div>
-                                <div>19.98%</div>
+                                <div>19.92%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -99,7 +99,7 @@ svg.bar rect[fill="#d1d5da"] { fill: #30363d !important; }</style>
                             </div>
                             <small>
                                 <div>254 kB</div>
-                                <div>5.76%</div>
+                                <div>5.74%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -110,7 +110,7 @@ svg.bar rect[fill="#d1d5da"] { fill: #30363d !important; }</style>
                                 CSS
                             </div>
                             <small>
-                                <div>47.5 kB</div>
+                                <div>47.6 kB</div>
                                 <div>1.08%</div>
                             </small>
                         </div>
@@ -125,7 +125,7 @@ svg.bar rect[fill="#d1d5da"] { fill: #30363d !important; }</style>
                             </div>
                             <small>
                                 <div>137 kB</div>
-                                <div>3.11%</div>
+                                <div>3.1%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -137,7 +137,7 @@ svg.bar rect[fill="#d1d5da"] { fill: #30363d !important; }</style>
                             </div>
                             <small>
                                 <div>42.6 kB</div>
-                                <div>0.97%</div>
+                                <div>0.96%</div>
                             </small>
                         </div>
                     </section>
